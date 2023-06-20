@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/D5616AQGRDhor6mzUJQ/profile-displaybackgroundimage-shrink_350_1400/0/1687195107822?e=1692835200&v=beta&t=6bzrA0vlbmEiRJnThy051ObmR4AoiyBvlTPZ6744WxI))
+### Hi there 👋, I'm Sadiqur Rahman
+#### Web Developer / programmer
+![Web Developer / programmer](https://media.licdn.com/dms/image/D5616AQGRDhor6mzUJQ/profile-displaybackgroundimage-shrink_350_1400/0/1687195107822?e=1692835200&v=beta&t=6bzrA0vlbmEiRJnThy051ObmR4AoiyBvlTPZ6744WxI)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Sadiqur Rahman Full-stack Developer Dedicated web developer , Strong creative and analytical skills.Motivated designer and developer with experience creating custom websites.Strong collaboration skills and proven history of application development.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / TAILWIND / JS / REACT / FIREBASE / MONGODB / EXPRESS 
 
 - 🔭 I’m currently working on this page. 
 
@@ -22,9 +22,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HmSani6699)  
 
 ![Profile views](https://gpvc.arturio.dev/HmSani6699)  
-
-
-
-
-
-
