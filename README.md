@@ -1,4 +1,4 @@
-![Web Developer / programmer](https://media.licdn.com/dms/image/D5616AQGRDhor6mzUJQ/profile-displaybackgroundimage-shrink_350_1400/0/1687195107822?e=1692835200&v=beta&t=6bzrA0vlbmEiRJnThy051ObmR4AoiyBvlTPZ6744WxI)
+![Web Developer / programmer](C:\Users\User\Pictures\Blue Gradient Product Manager LinkedIn Article Cover Image (1).png)
 ### Hi there 👋, I'm Sadiqur Rahman
 #### Web Developer / programmer
 
