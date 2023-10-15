@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sadiqur Rahman
+### Hi there 👋, I'm Sadiqur Rahman Sani
 #### Web Developer / programmer
 
 I'm Sadiqur Rahman Full-stack Developer Dedicated web developer , Strong creative and analytical skills.Motivated designer and developer with experience creating custom websites.Strong collaboration skills and proven history of application development.
