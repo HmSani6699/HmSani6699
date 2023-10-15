@@ -1,4 +1,3 @@
-![Web Developer / programmer](C:\Users\User\Pictures\Blue Gradient Product Manager LinkedIn Article Cover Image (1).png)
 ### Hi there 👋, I'm Sadiqur Rahman
 #### Web Developer / programmer
 
