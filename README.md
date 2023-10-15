@@ -3,7 +3,7 @@
 
 I'm Sadiqur Rahman Full-stack Developer Dedicated web developer , Strong creative and analytical skills.Motivated designer and developer with experience creating custom websites.Strong collaboration skills and proven history of application development.
 
-Skills: HTML / CSS / Tailwind/ JavaScript / React.js / Next.js / Firebase / MongoDB / Epress.js
+Skills: HTML || CSS || Tailwind || JavaScript || React.js || Next.js || Firebase || Node.js || Epress.js || MongoDB
 
 - 🔭 I’m currently working on this page. 
 
