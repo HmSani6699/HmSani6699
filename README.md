@@ -1,15 +1,9 @@
 ### 😎 Nice to see you here 👋
 
-I'm Taher, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. ➕ I like to 🥼 experiment a lot! 
+I'm Sadiqur Rahaman, MERN Stack Developer from 🇧🇩 Dhaka, Bangladesh. ➕ I like to 🥼 experiment a lot! 
 
 [![Facebook Badge](https://img.shields.io/badge/-entrptaher-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/entrptaher)](https://facebook.com/entrptaher) [![Twitter Badge](https://img.shields.io/badge/-@entrptaher-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/entrptaher)](https://twitter.com/entrptaher) [![Instagram Badge](https://img.shields.io/badge/-entrptaher-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/entrptaher)](https://instagram.com/entrptaher) [![Linkedin Badge](https://img.shields.io/badge/-entrptaher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/entrptaher/)](https://www.linkedin.com/in/entrptaher/) [![Medium Badge](https://img.shields.io/badge/-@entrptaher-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@entrptaher/)](https://medium.com/@entrptaher) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entrptaher+github@gmail.com)](mailto:entrptaher+github@gmail.com)
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
 
 ### 🖥 Technologies
 
