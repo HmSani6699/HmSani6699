@@ -8,4 +8,3 @@ You can talk to me about,
 - Front-end development using **HTML, CSS, JavaScript, ReactJS, NextJS, Bootstrap**
 - Backend development using **NodeJS, Express**
 - Database stuff using **MongoDB, PostgreSQL**
-
