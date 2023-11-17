@@ -1,20 +1,28 @@
-### Hi there 👋, I'm Sadiqur Rahman Sani
-#### Web Developer / programmer
+### 😎 Nice to see you here 👋
 
-I'm Sadiqur Rahman Full-stack Developer Dedicated web developer , Strong creative and analytical skills.Motivated designer and developer with experience creating custom websites.Strong collaboration skills and proven history of application development.
+I'm Taher, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. ➕ I like to 🥼 experiment a lot! 
 
-Skills: HTML || CSS || Tailwind || JavaScript || React.js || Next.js || Firebase || Node.js || Epress.js || MongoDB
+[![Facebook Badge](https://img.shields.io/badge/-entrptaher-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/entrptaher)](https://facebook.com/entrptaher) [![Twitter Badge](https://img.shields.io/badge/-@entrptaher-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/entrptaher)](https://twitter.com/entrptaher) [![Instagram Badge](https://img.shields.io/badge/-entrptaher-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/entrptaher)](https://instagram.com/entrptaher) [![Linkedin Badge](https://img.shields.io/badge/-entrptaher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/entrptaher/)](https://www.linkedin.com/in/entrptaher/) [![Medium Badge](https://img.shields.io/badge/-@entrptaher-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@entrptaher/)](https://medium.com/@entrptaher) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entrptaher+github@gmail.com)](mailto:entrptaher+github@gmail.com)
 
-- 🔭 I’m currently working on this page. 
+### 🔥🔥 Places I have been
+- Software Engineer at [![](https://avatars2.githubusercontent.com/u/1757387?s=16&v=4) ThemeXpert](https://www.themexpert.com/) working on [![](https://avatars2.githubusercontent.com/u/65561215?s=16&v=4) ThriveDesk](https://www.thrivedesk.com/)
+- Software Developer at [![](https://avatars2.githubusercontent.com/u/15325217?s=16&v=4) Vanila.io](https://vanila.io) and Co founder of [![](https://avatars2.githubusercontent.com/u/50674207?s=16&v=4) Automatio](https://automatio.co)
+- Founder of [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants) and created multiple courses amd taught a few developers from scratch.
 
+### 🖥 Technologies
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HmSani6699)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hm-sadikur-rahman-865830231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100066865836961)  
+You can talk to me about,
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Bootstrap**
+- Backend development using **NodeJS, Express**
+- Database stuff using **Prisma, SQlite, MongoDB, MySQL, PostgreSQL**
+- Full stack stuff using **NextJS, BlitzJS**
+- Web automation using **Puppeteer, Cypress, Playwright**
+- Deployment stuff using **Docker, Kubernetes**, **Caddy**, **Nginx**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HmSani6699&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/HmSani6699)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HmSani6699)  
-
+You can still talk to me about things I am still learning,
+- Frontend stuff like **Vue, Angular**
+- Backend stuff like **Laravel**
+- CMS stuff like **Ghost, Wordpress**
+- Languages like **Go, Rust, PHP, Python**
+- Data structures and algorithms
+- Machine Learning
